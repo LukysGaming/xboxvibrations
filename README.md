@@ -2,6 +2,7 @@
 
 ## Overview
 
+Made this cus I couldnt find anything similiar 
 This Python script allows you to control the vibration intensity of your Xbox One game controller using mouse scroll events and a button press.
 
 ## Prerequisites
