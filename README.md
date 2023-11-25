@@ -80,3 +80,6 @@ If you prefer not to adjust vibration intensity, a simplified version is also av
 - Ensure that the `xinput1_4` library is available on your system.
 - Terminate the script by pressing `Ctrl + C`.
 - Tested on w10 with xone controller
+
+
+i know for what you will use it ☹
